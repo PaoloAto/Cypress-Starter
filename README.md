@@ -2,3 +2,5 @@
 
 This repository is the starting point for an official Cypress tutorial. We encourage you to clone this repo and follow along.
 # Cypress-Starter
+
+Testing purposes only forked from cypress starter repo
